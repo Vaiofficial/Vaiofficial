@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Vaiofficial
+- 👩‍💻 Tutor at youtube
 - 👀 I’m interested in AI AND ML
 - 🌱 I’m currently learning CSE( AI &ML)
 - 💞️ I’m studying in RCET Bhilai
