@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSE( AI &ML)
 - 💞️ I’m studying in RCET Bhilai
 - 📫 My Instagram id - vaibhav_official_
-- 🎥 My YouTube channel - https://youtube.com/c/GAMINGANDTECHVAIBHAV
+- 🎥 My YouTube channel - https://www.youtube.com/c/VaibhavTalkspv
 
 <!---
 Vaiofficial/Vaiofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
