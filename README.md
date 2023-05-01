@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaiofficial
 - 👩‍💻 Tutor at youtube
 - 👀 I’m interested in AI AND ML
-- 🌱 I’m currently learning CSE( AI &ML)
+- 🌱 I’m currently learning DSA
 - 💞️ I’m studying in RCET Bhilai
 - 🎥 My YouTube channel - https://www.youtube.com/c/VaibhavTalkspv
 
