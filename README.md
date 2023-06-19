@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vaiofficial
-- 👩‍💻 Tutor at youtube
-- 👀 I’m interested in AI AND ML
-- 🌱 I’m currently learning DSA
-- 💞️ I’m studying in RCET Bhilai
+- 👀 I’m an AI AND ML Student
+- 👩‍💻 Coding Tutor at youtube
+- 🌱 MERN Stack Developer
+- 💞️ I’m studying at RCET Bhilai
 - 🎥 My YouTube channel - https://www.youtube.com/c/VaibhavTalkspv
 
 <!---
