@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Vaiofficial/Vaiofficial/blob/main/MERN%20STACK%20DEVELOPER%20(1).png)
 <h1 align="center">Hi 👋, I'm P Vaibhav</h1>
 <h3 align="center">A passionate AI & ML student and a full-Stack Web developer. 🚀</h3>
 
